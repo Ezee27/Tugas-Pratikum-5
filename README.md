@@ -8,7 +8,7 @@ Matkul: Bahasa Pemrograman
 
 # Latihan Praktikum
 
-![gambar](https://github.com/andreanbadeh/Praktikum-5/blob/0e4ab1927010de801e920353230a3031c5a6e7c0/Image/Screenshot%202024-11-12%20043342.png)
+![Screenshot 2024-11-12 043342](https://github.com/user-attachments/assets/da0566b2-98de-418e-81bd-27c8c573022a)
 
 # Elemen.py
 
@@ -42,11 +42,11 @@ print(list_a)
 
 Code Program tersebut:
 
-![gambar](https://github.com/andreanbadeh/Praktikum-5/blob/fbb46c5a7ac540b78201de609480b76da1600f79/Image/elemen.png)
+![code](https://github.com/user-attachments/assets/5ace10b3-4dfe-463f-ab04-2a81f780c072)
 
 hasil program tersebut:
 
-![gambar](https://github.com/andreanbadeh/Praktikum-5/blob/5863038094d09c4f9454f4a87b6107054eac4b21/Image/Screenshot%202024-11-13%20084625.png)
+![Screenshot (96)](https://github.com/user-attachments/assets/7b2296f8-6ef2-4de1-b58c-508ebb179828)
 
 # Menambah data.py
 
